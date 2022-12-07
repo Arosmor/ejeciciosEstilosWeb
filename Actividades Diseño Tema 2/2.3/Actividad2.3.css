@@ -1,0 +1,15 @@
+h1.rojo {
+    font-family: Arial;
+    font-weight: 900;
+    color:#ff0000;
+}
+
+p.verde {
+    font-family: Arial;
+    font-weight: 900;
+    color:rgb(51, 204, 51);
+}
+
+.azul{
+    background-color: gray ;
+}
